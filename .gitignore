@@ -24,3 +24,7 @@ ENV/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Generated PDF reports and documentation
+*.pdf
+
