@@ -1,0 +1,14 @@
+resource_id,type,capacity,base_location,available
+BOAT-01,boat,40,S1,True
+BOAT-02,boat,45,S2,True
+BOAT-03,boat,35,S1,True
+BOAT-04,boat,50,S2,True
+BOAT-05,boat,60,S3,True
+BUS-01,bus,55,S1,True
+BUS-02,bus,55,S2,True
+BUS-03,bus,60,S2,True
+BUS-04,bus,50,S3,True
+TEAM-01,rescue_team,30,S1,True
+TEAM-02,rescue_team,30,S2,True
+TEAM-03,rescue_team,25,S2,True
+TEAM-04,rescue_team,25,S3,True

@@ -1,0 +1,42 @@
+{
+  "safety_margin_minutes": 30,
+  "boat_speed_factor": 1.2,
+  "bus_load_minutes": 20,
+  "max_rework_rounds": 3,
+  "fictional_disclaimer": "Educational prototype on synthetic data. Not an operational tool.",
+  "hospital_village_id": "V09",
+  "river_curve": [
+    {
+      "x": 10,
+      "y": 85
+    },
+    {
+      "x": 20,
+      "y": 72
+    },
+    {
+      "x": 32,
+      "y": 64
+    },
+    {
+      "x": 48,
+      "y": 55
+    },
+    {
+      "x": 62,
+      "y": 60
+    },
+    {
+      "x": 75,
+      "y": 70
+    },
+    {
+      "x": 88,
+      "y": 60
+    },
+    {
+      "x": 95,
+      "y": 45
+    }
+  ]
+}

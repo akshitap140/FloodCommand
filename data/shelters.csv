@@ -1,0 +1,4 @@
+shelter_id,name,x,y,capacity,current_load,has_medical
+S1,North Hill Fort Shelter,22,92,1100,80,True
+S2,Central Ridge Stadium,52,18,2800,120,True
+S3,East Plateau Academy,88,88,450,190,False
